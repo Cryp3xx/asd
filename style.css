@@ -1,0 +1,62 @@
+body {
+    background-color: #1f2438;
+    margin:0;
+}
+.navbaractual {
+   display:flex;
+   font-size: xx-large;
+   background-color: #1f2438;
+   justify-content: space-evenly;
+   padding: 15px;
+   color: white;
+}
+.navbaractual a:hover {
+    color: red;
+}
+
+
+
+.footer {   
+    background-color: #1f2438;
+    color: white;
+    text-align: center;
+    font-size: large;
+    justify-content: center;
+}
+
+.cons {
+    display:flex;
+    justify-content: center;
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+    margin: 10px;
+
+
+}
+
+.form {
+    justify-content: center;
+    padding: 10px;
+    margin-left: 20px;
+    color: white;
+
+
+}
+
+.pswrd {
+    justify-content: start;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.button {
+    margin-left: 20px;
+}
+
+.preorder {
+    background-color: #1f2438;
+    border: 3px solid black;
+    text-align: center;
+}
+    
